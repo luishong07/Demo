@@ -1,3 +1,3 @@
 # Demo
 
-Descriptive description.
+A very descriptive description.
