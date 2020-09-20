@@ -10,3 +10,4 @@ Text
 ## Local Development
 
 Open index.html on browser 
+Have fun
